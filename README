@@ -1,6 +1,6 @@
-<h1>Project Title: Scripts I made to Support with C1 Capstone</h1>
+#Project Title: Scripts I made to Support with C1 Capstone
 
-<h2> Motivation: I wrote these scripts to support m team to determine whether the weather has an impact on MTA Transit Timeliness. </h2>
+## Motivation: I wrote these scripts to support m team to determine whether the weather has an impact on MTA Transit Timeliness. 
 
 timetableScraper.py - Scrapes the MTA schedules from https://new.mta.info/schedules and downloads the selected PDF schedules to the current working directory.
 
